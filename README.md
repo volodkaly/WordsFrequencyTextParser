@@ -1,3 +1,37 @@
+Clone the repository (or just download the two files WordsFrequencyTextParser.py and textToParse.txt to the same folder).
+Put the text that needs to be analyzed into textToParse.txt.
+Launch WordsFrequencyTextParser.py
+Safe to use.
+
+Output example:
+
+WORD                 | COUNT
+--------------------------------
+care                 | 6972
+pentru               | 4320
+este                 | 3844
+sunt                 | 1876
+când                 | 1665
+mine                 | 1631
+dacă                 | 1607
+asta                 | 1506
+bine                 | 1447
+poate                | 1336
+fost                 | 1245
+mult                 | 1234
+prin                 | 1233
+trebuie              | 1206
+foarte               | 1179
+spus                 | 1138
+avea                 | 1123
+după                 | 1095
+timp                 | 1091
+nici                 | 1062
+rnai                 | 1062
+mama                 | 1029
+eram                 | 986
+într                 | 958
+
 🔎 WordsFrequencyTextParser (Safe Version)
 
 This script reads a user-provided text file and extracts the most frequent Romanian words while filtering unsafe characters, large files, and binary/hidden content.
